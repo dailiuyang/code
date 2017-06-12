@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="baizhi-commons" />
+        <module name="baizhiCMFZsystem" />
+        <module name="baizhiFather" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="baizhi-commons" target="1.5" />
+      <module name="baizhiCMFZsystem" target="1.5" />
+      <module name="baizhiFather" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
